@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075378097304",
+    "project_id": "ladmu4p1smsdaar",
+    "storage_bucket": "ladmu4p1smsdaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075378097304:android:7e160d5521ae8a74c654ed",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.daar.ladm_u4_p1_daar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075378097304-c8ulkpah4ani1f11qoe5vh82g9je21o9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfeB6jHzqLboqJjOb8vxZCcfRgpUz-bIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075378097304-c8ulkpah4ani1f11qoe5vh82g9je21o9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
