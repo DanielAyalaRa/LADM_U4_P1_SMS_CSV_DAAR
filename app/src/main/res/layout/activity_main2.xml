@@ -41,7 +41,13 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="archivo CSV"
+        android:text="Guardar como CSV"
         android:id="@+id/botonCSV"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Abrir archivo"
+        android:id="@+id/abrirArchivo"/>
 
 </LinearLayout>

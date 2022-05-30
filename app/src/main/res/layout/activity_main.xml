@@ -56,7 +56,7 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:backgroundTint="#9C27B0"
+        android:backgroundTint="#2196F3"
         android:id="@+id/recibidos"
         android:textSize="18sp"
         android:text="Mensajes Recibidos"/>
